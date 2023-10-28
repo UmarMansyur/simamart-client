@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 mt-5">
-        <h1 class="text-center">SIMAMART</h1>
+        <h1 class="text-center">BHERUNG KAMPOENG</h1>
       </div>
     </div>
     <div class="row">

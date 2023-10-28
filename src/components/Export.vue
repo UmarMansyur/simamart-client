@@ -1,8 +1,8 @@
 <template>
-  <button class="btn btn-success me-1" data-bs-target="#dinamyc-modal" data-bs-toggle="modal">
+  <button class="btn btn-success me-1" data-bs-target="#export-modal" data-bs-toggle="modal">
     <i class="bi bi-file-earmark-plus"></i> Export
   </button>
-  <div class="modal fade" id="dinamyc-modal" tabindex="-1" aria-hidden="true">
+  <div class="modal fade" id="export-modal" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
       <div class="modal-content">
         <div class="modal-header">

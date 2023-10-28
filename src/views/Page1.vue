@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 mt-5">
-        <h1 class="text-center">SIMAMART</h1>
+        <h1 class="text-center">BHERUNG KAMPOENG</h1>
       </div>
     </div>
     <div class="row mt-5 justify-content-center mb-2">
@@ -28,7 +28,7 @@
         <button class="btn btn-primary my-2 d-none d-lg-inline-block" id="btn-modal" data-bs-target="#dinamyc-modal" data-bs-toggle="modal" @click="clearData">
           <i class="bi bi-plus-circle"></i> Tambah
         </button>
-        <Modal title="Tambah Barang">
+        <Modal title="Data Barang">
           <div class="row text-start">
             <div class="col-12 mb-3">
               <label for="name" class="form-label">Nama Barang: </label>
@@ -44,7 +44,7 @@
             </div>
             <div class="col-12 mb-3">
               <label for="stok" class="form-label">Stok: </label>
-              <input type="text" class="form-control" id="stok" placeholder="Harga Beli" v-model="stok"/>
+              <input type="text" class="form-control" id="stok" placeholder="Stok" v-model="stok"/>
             </div>
             <div class="col-6">
               <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Batal</button>
